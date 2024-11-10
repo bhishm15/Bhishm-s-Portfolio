@@ -457,7 +457,12 @@ article {
 .article-container2-detail {
   width: 105%;
   justify-content: flex-start;
+ 
 }
+.negative-margin-left {
+  margin-left: -16px;
+}
+
 
 .article-container-h3 {
   width: 90%;
